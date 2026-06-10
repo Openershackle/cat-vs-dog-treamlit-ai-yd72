@@ -1,4 +1,4 @@
-# 
+# Exclusif Cat vs Dog Classifier with PyTorch and Streamlit modèles. Avec IA générative et apprentissage par renforcement — optimisé pour des performances maximales.
 
 
 
